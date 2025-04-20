@@ -1,4 +1,4 @@
-# siva-2727-legal_document_summarizer# 📚 Legal Document Summarizer
+# legal_document_summarizer# 📚 Legal Document Summarizer
 
 This Streamlit-based application allows you to:
 - Upload a PDF
